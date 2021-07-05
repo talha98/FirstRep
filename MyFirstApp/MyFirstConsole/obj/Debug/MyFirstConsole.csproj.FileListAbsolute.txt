@@ -1,0 +1,10 @@
+C:\Users\ASUS\Documents\Capgemini .NET\MyFirstApp\MyFirstConsole\bin\Debug\MyFirstConsole.exe.config
+C:\Users\ASUS\Documents\Capgemini .NET\MyFirstApp\MyFirstConsole\bin\Debug\MyFirstConsole.exe
+C:\Users\ASUS\Documents\Capgemini .NET\MyFirstApp\MyFirstConsole\bin\Debug\MyFirstConsole.pdb
+C:\Users\ASUS\Documents\Capgemini .NET\MyFirstApp\MyFirstConsole\obj\Debug\MyFirstConsole.csproj.AssemblyReference.cache
+C:\Users\ASUS\Documents\Capgemini .NET\MyFirstApp\MyFirstConsole\obj\Debug\MyFirstConsole.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Documents\Capgemini .NET\MyFirstApp\MyFirstConsole\obj\Debug\MyFirstConsole.exe
+C:\Users\ASUS\Documents\Capgemini .NET\MyFirstApp\MyFirstConsole\obj\Debug\MyFirstConsole.pdb
+C:\Users\ASUS\Documents\Capgemini .NET\MyFirstApp\MyFirstConsole\bin\Debug\ClassLibrary.dll
+C:\Users\ASUS\Documents\Capgemini .NET\MyFirstApp\MyFirstConsole\bin\Debug\ClassLibrary.pdb
+C:\Users\ASUS\Documents\Capgemini .NET\MyFirstApp\MyFirstConsole\obj\Debug\MyFirstConsole.csproj.CopyComplete
